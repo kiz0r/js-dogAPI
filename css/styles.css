@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.dogImg {
+  width: inherit;
+  height: 500px;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.changeBtn {
+  font-size: 16px;
+  border-radius: 10px;
+  padding: 15px 25px;
+}
